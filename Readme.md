@@ -33,6 +33,7 @@ Demo at: [https://www.youtube.com/watch?v=PfezSJB21vk](https://www.youtube.com/w
 * Rigid objects
 * Soft objects
 
+## Fysics control
 * Framerates
 * Physics steps
 	* `physics_step_max`. Maximum number of physics step per game frame if graphics slows down the game, higher value allows physics to keep up with realtime
@@ -40,7 +41,7 @@ Demo at: [https://www.youtube.com/watch?v=PfezSJB21vk](https://www.youtube.com/w
 	* `physics_step_sub`. Number of simulation substep per physic timestep, higher value give better physics precision. <br>
 Type:	int in [1, 50], default 1
 
-Example: In the chain.blend example. If the Scene physics are set to (5,1,30), you can see that one of the rings falls of (you can see it in wireframe mode). If you increase the `physics_step_sub` to 2, this does not happen.
+Example: In the `chain.blend` example. If the Scene physics are set to (5,1,30), you can see that one of the rings falls of (you can see it in wireframe mode). If you increase the `physics_step_sub` to 2, this does not happen.
 
 ## Pendulums
 

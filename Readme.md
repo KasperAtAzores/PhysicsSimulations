@@ -2,6 +2,8 @@
 
 Video link: [https://www.youtube.com/watch?v=uDqjIdI4bF4](https://www.youtube.com/watch?v=uDqjIdI4bF4)
 
+Compare with [this blender animation](https://www.youtube.com/watch?time_continue=20&v=RdJQBqTbHCM)
+
 ## Blender physics simulations
 
 Demo at: [https://www.youtube.com/watch?v=PfezSJB21vk](https://www.youtube.com/watch?v=PfezSJB21vk)
